@@ -75,7 +75,7 @@ namespace Mobilitec_Services
             this.btnClientes.Name = "btnClientes";
             this.btnClientes.Size = new System.Drawing.Size(209, 190);
             this.btnClientes.TabIndex = 2;
-            this.btnClientes.Text = "C&lientes";
+            this.btnClientes.Text = "&Departamentos";
             this.btnClientes.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnClientes.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnClientes.UseVisualStyleBackColor = true;
@@ -89,7 +89,7 @@ namespace Mobilitec_Services
             this.btnSAC.Name = "btnSAC";
             this.btnSAC.Size = new System.Drawing.Size(209, 190);
             this.btnSAC.TabIndex = 5;
-            this.btnSAC.Text = "S&AC";
+            this.btnSAC.Text = "FAQ";
             this.btnSAC.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnSAC.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnSAC.UseVisualStyleBackColor = true;
@@ -102,7 +102,7 @@ namespace Mobilitec_Services
             this.btnServicos.Name = "btnServicos";
             this.btnServicos.Size = new System.Drawing.Size(209, 190);
             this.btnServicos.TabIndex = 4;
-            this.btnServicos.Text = "&Serviços";
+            this.btnServicos.Text = "&Termos";
             this.btnServicos.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnServicos.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnServicos.UseVisualStyleBackColor = true;
